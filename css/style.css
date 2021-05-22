@@ -263,7 +263,7 @@ body{
 .department {
     width: 80%;
     background: #049906;
-    padding: 20px 15px;
+    padding: 20px 0px;
     position: relative;
     margin-bottom: 60px;
 }
@@ -344,7 +344,11 @@ body{
 .about p{
     font-size: 13px;
     text-align: justify;
-    margin-top: 15px
+    margin-top: 15px;
+    margin-right:200px;
+}
+.qualification{
+    margin-right:200px;
 }
 .qualification h2{
 font-size: 24px;
@@ -370,7 +374,7 @@ font-size: 24px;
     width:40%;
 }
 .table .row span:last-child{
-    width: 60%;
+    width: 76%;
     margin-left: 10px;
 }
 .table .row:nth-child(odd) span{
@@ -825,7 +829,7 @@ font-size: 24px;
     padding-left: 30px;
     }
     .about p {
-    width: 94%;
+    width: 80%;
     }
     .m-con {
         display: block;
